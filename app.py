@@ -1,4 +1,1 @@
-import streamlit as st
-
-st.title("My Personal AI Assistant")
-st.write("Hello! Welcome to my AI project. Here you can chat and generate images.")
+[https://github.com/RealSupriyo26/supriyo-ai/edit/main/app.py](https://github.com/RealSupriyo26/supriyo-ai/edit/main/app.py)
